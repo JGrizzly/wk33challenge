@@ -3,7 +3,7 @@ body {
 }
 
 section {
-  Background-color: #eee;
+  background-color: #eee;
 }
 
 article {
@@ -18,7 +18,7 @@ a {
   color: green;
 }
 
-section, article, footer {
+article, section, footer {
   padding: 10px;
   border-radius: 16px;
 }
